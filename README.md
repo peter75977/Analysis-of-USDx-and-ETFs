@@ -9,7 +9,7 @@
  
  
  
- USDx has negatively correlation with ETFs: QQQ, XLE, XLV
+ USDx has negatively correlation with ETFs: QQQ, XLE, XLV <br />
  QQQ, XLE, XLV are highly correlated, which means that portfolio should avoid keeping more than one of these three ETFs
  
  
