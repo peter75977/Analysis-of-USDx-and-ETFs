@@ -7,7 +7,7 @@
  USDx is the **only** index with positive return among the chosen index
  ![alt text](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/README_IMG/USDx_img.png)
  
- 
+ -
  
  USDx has negatively correlation with ETFs: QQQ, XLE, XLV <br />
  
