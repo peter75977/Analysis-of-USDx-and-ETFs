@@ -24,5 +24,4 @@
  
  
 
- Please see the complete process and conclusion here 👉 [link](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/Final_Report.pdf)
-
+### Please see the complete process and conclusion here 👉 [link](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/Final_Report.pdf)
