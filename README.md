@@ -20,7 +20,8 @@
  
  USDx has the lowest risk and moderate expected ruturn <br />
  
- QQQ has the highest risk and highest expected ruturn
+ QQQ has the highest risk and highest expected ruturn <br />
+ 
   ![alt text](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/README_IMG/Risk_img.png)
  
  
