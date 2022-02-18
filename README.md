@@ -7,7 +7,7 @@
  USDx is the **only** index with positive return among the chosen index
  ![alt text](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/README_IMG/USDx_img.png)
  
- -
+ ------------------
  
  USDx has negatively correlation with ETFs: QQQ, XLE, XLV <br />
  
@@ -16,7 +16,7 @@
  
   ![alt text](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/README_IMG/USDx_Corr_img.png)
  
- 
+ ------------------
  
  USDx has the lowest risk and moderate expected ruturn <br />
  
@@ -24,7 +24,7 @@
  
   ![alt text](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/README_IMG/Risk_img.png)
  
- 
+ ------------------
  
 
 ### Please see the complete process and conclusion here 👉 [link](https://github.com/peter75977/Analysis-of-USDx-and-ETFs/blob/main/SEAS%206401-etf-usdx-project/Final_Report.pdf)
